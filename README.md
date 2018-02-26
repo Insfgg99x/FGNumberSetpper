@@ -1,6 +1,6 @@
 # FGNumberStepper 简单易用的选择数量控件
 
-![](resources/1.png)
+![](resources/hotstrip.png)
 
 ## Usage 
 
