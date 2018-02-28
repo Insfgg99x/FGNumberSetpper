@@ -5,7 +5,7 @@
 ## Usage 
 
 ```
-	__weak typeof(self) wkself = self;
+__weak typeof(self) wkself = self;
     FGNumberStepper *setpper = [[FGNumberStepper alloc] initWithNumber:1 minmualNumber:1 changeAction:^(FGNumberStepper *s, NSInteger number) {
         CGFloat price = 3.0;
         CGFloat total = price * number;
